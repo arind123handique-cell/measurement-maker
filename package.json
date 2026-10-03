@@ -1,0 +1,12 @@
+{
+  "name": "measurement-maker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Online Measurement Maker for Civil Engineers (IS:1200 / PWD Assam)",
+  "scripts": {
+    "dev": "npm --prefix web run dev",
+    "build": "npm --prefix web run build",
+    "lint": "npm --prefix web run lint",
+    "preview": "npm --prefix web run preview"
+  }
+}
